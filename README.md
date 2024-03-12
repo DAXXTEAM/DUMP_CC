@@ -20,10 +20,10 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-PRIVATE TOOL BY EXTRA EARN
+PRIVATE TOOL BY MR DAXX
 ```
 ```
-cd EXTRA_EARN
+cd DUMP_CC
 ```
 ```
 pip3 install -r requirements.txt
